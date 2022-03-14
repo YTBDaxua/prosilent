@@ -2779,7 +2779,7 @@ do
 
         --// LABELS
 		anotherTab:AddLabel("Credits")
-		anotherTab:AddLabel("Daxua#1112/Haibeo")
+		anotherTab:AddLabel("Daxua#1112/Hairbesos#3700")
 		anotherTab:AddLabel("ez Daxua pro")
 		anotherTab:AddLabel("Thanks To choose Dax.me")
 		anotherTab:AddLabel("Right Shift to open/close UI")
