@@ -205,7 +205,7 @@ mt.__namecall =
 
 
 
-    local LoaderTitle = " Daxua#1112"
+    local LoaderTitle = " Dax.me"
 
     local TweenService = game:GetService("TweenService")
 
@@ -2779,10 +2779,10 @@ do
 
         --// LABELS
 		anotherTab:AddLabel("Credits")
-		anotherTab:AddLabel("Daxua#1112")
+		anotherTab:AddLabel("Daxua#1112/Haibeo")
 		anotherTab:AddLabel("ez Daxua pro")
-		anotherTab:AddLabel("Thanks To choose Daxua")
-		anotherTab:AddLabel("Right Shift to close UI")
+		anotherTab:AddLabel("Thanks To choose Dax.me")
+		anotherTab:AddLabel("Right Shift to open/close UI")
 
 		miscTab:AddLabel(":/")
 		miscTab:AddLabel("Speed Glitch is real macro but in Lua")
@@ -3031,7 +3031,7 @@ do
 		end
 		]]
 
-		rageBot:AddLabel("hay lỗi vãi lồn :(")
+		rageBot:AddLabel("some time it glicht")
 
 		local triggerbotEnable = rageBot:AddSwitch("trigger bot)", function(state)
 			local player = game.Players.LocalPlayer
